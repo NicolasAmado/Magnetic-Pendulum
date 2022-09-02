@@ -7,3 +7,5 @@ If we can assign wich initial position ends up in wich magnet (lets say by color
 We actually end up with a fractal.
 
 (El archivo Pendulo Magnetico es idéntico pero tiene comentarios en español)
+
+![MagneticPendulumBasinOfAtraction](https://github.com/NicolasAmado/Magnetic-Pendulum/blob/main/MagPend.png)
