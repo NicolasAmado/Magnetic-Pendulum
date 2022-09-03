@@ -6,6 +6,11 @@ On wich magnet will the system rest on? This depends on the initial position of 
 If we can assign wich initial position ends up in wich magnet (lets say by coloring it) we get an idea of how sensitive the system is to initial conditions.
 We actually end up with a fractal.
 
+Libraries needed:
+Scipy
+Numba
+Pandas
+
 (El archivo Pendulo Magnetico es idéntico pero tiene comentarios en español)
 
 ![MagneticPendulumBasinOfAtraction](https://github.com/NicolasAmado/Magnetic-Pendulum/blob/main/MagPend.png)
