@@ -7,9 +7,9 @@ If we can assign wich initial position ends up in wich magnet (lets say by color
 We actually end up with a fractal.
 
 Libraries needed:
-Scipy
-Numba
-Pandas
+- Scipy
+- Numba
+- Pandas
 
 (El archivo Pendulo Magnetico es idéntico pero tiene comentarios en español)
 
